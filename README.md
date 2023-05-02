@@ -50,7 +50,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Assessment Two Description
 
-:arrow_right: Assessment Two Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
+:arrow_right: Assessment Two Outline is provided in SDV503 Moodle. Follow the Assessment 
               outline timeline and marking rubric
 
 
