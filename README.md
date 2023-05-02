@@ -20,7 +20,6 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams](https://teams.microsoft.com/l/team/19%3a03af48710582456a98f78b1775b758f9%40thread.tacv2/conversations?groupId=7ef1ff40-387a-4070-b43e-694b2e4bfd01&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
