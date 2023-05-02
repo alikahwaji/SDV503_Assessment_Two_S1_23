@@ -58,8 +58,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://drive.google.com/file/d/15-jOsVxvQtbVNKh_fbQQciEiP5lSsVb2/view?usp=sharing)|
-|---|---|---|---|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|
+|---|---|---|
 
 
 
